@@ -1,36 +1,48 @@
-# Atallis · End-to-End Embedded Solutions
+# Atallis · Rapid Prototyping for Smart Devices
 
-Welcome to the official GitHub profile for **Atallis** — a consulting company focused on the design, prototyping, and development of embedded systems, smart devices, and connected products.
+Welcome to the official GitHub profile of **Atallis**, a consulting company helping you **transform your ideas into working prototypes of embedded systems, smart devices, and connected products — in just a few weeks**.
 
----
-
-## 👋 Who We Are
-
-Atallis helps startups and engineering teams bring innovative electronic products to life — from idea to working prototype.  
-We specialize in solving complex challenges at the intersection of **hardware, firmware, and software**.
-
-Whether you need a custom PCB, Bluetooth-enabled device, or an integrated app-to-hardware solution, we provide lean, focused engineering support grounded in real-world experience.
+We specialize in **delivering tangible results fast**, so you can test, validate, and move forward with confidence.
 
 ---
 
-## 🛠️ Our Core Expertise
+## 🚀 What We Do (for You)
 
-- **Embedded Systems**: ESP32, STM32, Microchip, FreeRTOS  
-- **PCB Design**: KiCad, 4-layer boards, DFM for JLCPCB & others  
-- **Firmware Development**: C/C++, I2C/SPI/UART, RTOS, sensor integration  
-- **BLE & Wireless**: BLE, Wi-Fi, OTA updates, iOS/Swift integration  
-- **IoT & Cloud Gateways**: Python (Flask), REST APIs, secure comms  
-- **Prototyping to Production**: Consulting, rapid iteration, NDA-compliant work
+Atallis helps startups, product teams, and innovators reduce risk, shorten time-to-market, and gain clarity — by building **functional prototypes that bring your vision to life**.
+
+Instead of waiting months for a first version, we deliver a complete proof-of-concept within weeks, thanks to our lean and integrated approach:
+
+- **Electronics** + **Firmware** + **Mechanical Design** + **Software**
+- One small team. End-to-end execution.
+- Clear communication. Fast iterations. Real progress.
+
+Whether you're pitching to investors or preparing for production, we give you something to put in their hands.
 
 ---
 
-## 🤝 Collaborate With Us
+## 🛠️ What You Get
 
-While most of our work is protected under NDA, we’re always open to exploring new partnerships.
+- **Electronics Design**: From schematics to 2–32 layer PCBs, optimized for manufacturing (DFM) and testing (DFT)
+- **Embedded Firmware**: Reliable code for ESP32, STM32, Microchip, FreeRTOS — using C/C++ and PlatformIO
+- **Connectivity**: WiFi, BLE, LoRa, OTA updates, Swift/iOS mobile integration
+- **Mechanical Prototyping**: Custom 3D-printed enclosures, mounts, and industrial design to match your product vision
+- **Software & APIs**: Python/Flask, Laravel, REST APIs to connect your device to the cloud or apps
+- **Rapid Iteration**: Short development cycles, clear checkpoints, real feedback — we adapt as your product evolves
+
+---
+
+## 🤝 Why Work With Atallis?
+
+Because you don’t just need code — you need a **prototype that works**, built by someone who understands:
+
+- How electronics behave in the real world
+- What investors and customers expect
+- How to move from concept to manufacturable design
 
 **Let’s talk if you need:**
-- A technical partner for a connected product
-- Expert review or rescue of a stalled prototype
-- Full-stack embedded development — from sensor to smartphone
+- A technical partner who can build and iterate quickly
+- A fully functional prototype to showcase or test
+- Embedded expertise that spans hardware, firmware, and software
 
-👉 [Visit our website](https://atallis.com) or connect on [LinkedIn](https://www.linkedin.com/company/atallis).
+👉 [Visit our website](https://atallis.com)  
+👉 [Connect on LinkedIn](https://www.linkedin.com/company/atallis)
